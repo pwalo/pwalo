@@ -13,7 +13,7 @@ baseurl: ''
 lang: en
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
-prefer_datetime_locale:
+prefer_datetime_locale: en-gb
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Europe/London
@@ -23,7 +23,7 @@ timezone: Europe/London
 
 title: Pwalo's Docs                          # the main title
 
-tagline: Where I keep my hard to recall actions   # it will display as the sub-title
+tagline: Is it a blog, is it a guide, no but then we don't really know what it is   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   This is the place where I save info and commands for tasks I do so infrequently they are not burned into my brain.  Maybe it will grow to be more
