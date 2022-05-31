@@ -22,6 +22,16 @@ tags: [no-use,sample,practice]
 <a href="https://techno-tim.github.io/posts/jekyll-docs-site/" target="_blank">Techno Tim Jekyll Guide</a>  
 <a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank">Jekyll Chirpy Theme Git Repo</a>
 
+### Cloning a repo to local machine
+
+cd to a folder or mkdir where you would like to save your local copy repos eg: `cd documents` or 
+```bash
+mkdir ~/Code  
+cd ~/Code
+```  
+
+Clone the repo with `git clone git@github.com:<repo_user>/<repo_name>.git`
+
 ### Running, building and pushing code from WSL CLI
 
 #### Run 
@@ -61,3 +71,6 @@ Check for any outstanding commits or issues with `git status`
 
 Add all changes to the commit queue with `git add .`  
 
+Prepare the commit and add a comment with `git commit -m "Useful comment here"`  
+
+Finally push the commit to the repo with `git push` 
