@@ -1,11 +1,12 @@
 ---
 title: A page of assets to copy and paste
-date: 2022-05-31 17:03:00 +1
+date: 2022-03-29 17:03:00 +1
 author:
-  name: Pwalo
+  name: King Pwalo
   link: https://pwalo.github.com
 categories: [documentation,code]
 tags: [no-use,sample,practice]
+pin: true
 ---
 
 ### Block Quote Icons
